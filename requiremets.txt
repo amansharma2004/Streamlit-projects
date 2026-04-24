@@ -1,6 +1,7 @@
-streamlit
-pandas
-matplotlib==3.9.0
-seaborn
-plotly
-Image
+streamlit==1.32
+plotly==5.19
+pandas==2.2
+requests==2.31
+matplotlib==3.9
+seaborn==0.13
+
