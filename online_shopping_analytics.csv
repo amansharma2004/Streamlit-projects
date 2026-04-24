@@ -1,0 +1,501 @@
+OrderID,CustomerID,Gender,Age,Location,ProductCategory,ProductName,Quantity,UnitPrice,TotalAmount,PaymentMethod,OrderDate,DeliveryStatus,Rating
+1000,C001,Male,38,Jaipur,Electronics,Tablet,1,25346,25346,PayPal,2025-01-21,Pending,5
+1001,C002,Male,22,Lucknow,Fashion,Jeans,1,1148,1148,PayPal,2025-10-24,Delivered,3
+1002,C003,Female,19,Hyderabad,Sports,Yoga Mat,4,6999,27996,PayPal,2025-06-07,Returned,1
+1003,C004,Female,31,Lucknow,Fashion,T-Shirt,1,36233,36233,Credit Card,2026-01-01,Pending,5
+1004,C005,Male,18,Jaipur,Electronics,Smartwatch,2,22196,44392,COD,2026-01-18,Cancelled,1
+1005,C006,Female,41,Chennai,Books,Comics,1,45886,45886,COD,2025-02-26,Returned,5
+1006,C007,Male,39,Bangalore,Sports,Tennis Racket,2,49471,98942,Credit Card,2025-01-21,Delivered,5
+1007,C008,Male,20,Indore,Books,Comics,3,55658,166974,PayPal,2026-03-22,Pending,5
+1008,C009,Female,30,Hyderabad,Sports,Football,5,30472,152360,UPI,2025-10-16,Cancelled,4
+1009,C010,Female,53,Pune,Home,Curtains,5,9515,47575,UPI,2025-10-07,Delivered,1
+1010,C011,Female,46,Lucknow,Home,Mixer Grinder,1,20634,20634,COD,2025-04-22,Pending,4
+1011,C012,Male,29,Chennai,Books,Magazine,4,3511,14044,PayPal,2026-03-24,Delivered,4
+1012,C013,Female,36,Kolkata,Electronics,Laptop,3,40462,121386,UPI,2025-02-20,Cancelled,2
+1013,C014,Female,46,Jaipur,Beauty,Face Cream,1,32278,32278,COD,2025-10-12,Pending,5
+1014,C015,Male,55,Bangalore,Books,Magazine,2,7574,15148,Credit Card,2025-07-04,Delivered,4
+1015,C016,Male,35,Lucknow,Sports,Tennis Racket,5,26361,131805,COD,2025-05-13,Returned,3
+1016,C017,Male,31,Pune,Fashion,Jacket,5,48298,241490,PayPal,2025-06-06,Pending,3
+1017,C018,Female,52,Delhi,Sports,Cricket Bat,4,8797,35188,COD,2026-01-09,Pending,5
+1018,C019,Female,35,Jaipur,Sports,Tennis Racket,1,20417,20417,UPI,2026-01-24,Delivered,1
+1019,C020,Female,32,Jaipur,Sports,Yoga Mat,2,50189,100378,UPI,2026-02-27,Cancelled,3
+1020,C021,Female,29,Pune,Sports,Football,4,21493,85972,COD,2025-11-19,Cancelled,5
+1021,C022,Female,31,Pune,Sports,Football,4,20729,82916,COD,2025-04-11,Delivered,5
+1022,C023,Female,35,Mumbai,Sports,Gym Gloves,2,28759,57518,PayPal,2025-07-08,Delivered,2
+1023,C024,Female,18,Chennai,Fashion,Shoes,1,15937,15937,UPI,2025-10-27,Returned,1
+1024,C025,Male,43,Jaipur,Home,Bedsheet,1,4102,4102,UPI,2025-02-22,Cancelled,3
+1025,C026,Female,42,Delhi,Beauty,Face Cream,2,16594,33188,UPI,2025-09-19,Delivered,1
+1026,C027,Male,48,Kolkata,Books,Textbook,2,27505,55010,COD,2025-08-18,Delivered,1
+1027,C028,Female,56,Lucknow,Beauty,Perfume,1,28221,28221,COD,2026-02-17,Delivered,1
+1028,C029,Male,35,Mumbai,Beauty,Face Cream,3,15554,46662,PayPal,2025-03-23,Cancelled,2
+1029,C030,Female,31,Lucknow,Fashion,Shoes,3,35040,105120,UPI,2025-11-01,Delivered,4
+1030,C031,Male,39,Lucknow,Beauty,Perfume,5,20434,102170,Credit Card,2025-10-24,Returned,3
+1031,C032,Male,31,Lucknow,Beauty,Face Cream,3,46011,138033,COD,2026-03-21,Returned,2
+1032,C033,Female,44,Jaipur,Sports,Yoga Mat,5,39050,195250,UPI,2026-01-05,Returned,5
+1033,C034,Male,26,Bangalore,Fashion,Saree,1,3108,3108,PayPal,2025-04-15,Cancelled,5
+1034,C035,Female,58,Delhi,Sports,Cricket Bat,3,20389,61167,Credit Card,2025-09-15,Delivered,4
+1035,C036,Male,18,Indore,Beauty,Shampoo,5,23336,116680,PayPal,2026-02-22,Cancelled,4
+1036,C037,Female,21,Jaipur,Fashion,Shoes,1,46158,46158,UPI,2025-03-25,Pending,4
+1037,C038,Female,54,Lucknow,Sports,Football,3,5921,17763,COD,2025-12-11,Returned,4
+1038,C039,Male,38,Mumbai,Books,Textbook,2,29910,59820,COD,2025-06-11,Delivered,4
+1039,C040,Male,24,Kolkata,Electronics,Smartphone,5,55528,277640,COD,2025-05-25,Delivered,4
+1040,C041,Female,27,Lucknow,Electronics,Tablet,3,49622,148866,UPI,2026-03-09,Cancelled,1
+1041,C042,Female,57,Kolkata,Sports,Tennis Racket,3,34452,103356,Credit Card,2025-10-16,Delivered,5
+1042,C043,Male,18,Bangalore,Beauty,Lipstick,2,44188,88376,PayPal,2025-01-17,Cancelled,5
+1043,C044,Male,47,Kolkata,Electronics,Smartwatch,1,32607,32607,UPI,2025-03-26,Delivered,3
+1044,C045,Male,33,Pune,Fashion,Shoes,5,26664,133320,COD,2025-01-09,Delivered,1
+1045,C046,Female,37,Mumbai,Home,Cookware,3,11818,35454,COD,2025-09-15,Delivered,3
+1046,C047,Female,30,Bangalore,Sports,Cricket Bat,4,6648,26592,Credit Card,2025-03-19,Pending,3
+1047,C048,Male,34,Jaipur,Electronics,Smartwatch,3,59949,179847,UPI,2025-12-04,Returned,4
+1048,C049,Female,29,Indore,Electronics,Smartwatch,2,24705,49410,PayPal,2025-01-14,Returned,1
+1049,C050,Female,45,Chennai,Beauty,Lipstick,5,37190,185950,Credit Card,2025-10-16,Returned,2
+1050,C051,Female,44,Delhi,Fashion,T-Shirt,5,39580,197900,Credit Card,2025-03-18,Cancelled,1
+1051,C052,Male,56,Hyderabad,Books,Biography,4,20162,80648,Credit Card,2025-01-23,Cancelled,5
+1052,C053,Female,28,Mumbai,Beauty,Face Cream,5,37944,189720,UPI,2026-02-18,Returned,5
+1053,C054,Male,31,Lucknow,Books,Textbook,2,57702,115404,PayPal,2025-09-30,Delivered,2
+1054,C055,Male,18,Chennai,Beauty,Lipstick,5,31860,159300,COD,2026-02-28,Delivered,5
+1055,C056,Female,28,Jaipur,Beauty,Hair Oil,2,58740,117480,UPI,2025-02-03,Returned,5
+1056,C057,Female,44,Mumbai,Books,Novel,3,25834,77502,COD,2025-07-28,Cancelled,3
+1057,C058,Female,54,Delhi,Electronics,Headphones,3,9050,27150,PayPal,2026-02-22,Returned,1
+1058,C059,Male,21,Mumbai,Electronics,Tablet,4,10749,42996,PayPal,2025-04-06,Returned,5
+1059,C060,Male,55,Lucknow,Fashion,Shoes,4,474,1896,PayPal,2025-12-02,Pending,5
+1060,C061,Male,41,Bangalore,Beauty,Lipstick,5,49349,246745,COD,2025-04-03,Delivered,2
+1061,C062,Female,28,Indore,Beauty,Hair Oil,1,36549,36549,PayPal,2025-09-24,Cancelled,1
+1062,C063,Female,59,Kolkata,Books,Magazine,2,1279,2558,UPI,2025-11-03,Returned,1
+1063,C064,Male,36,Delhi,Fashion,Jeans,3,2894,8682,COD,2025-03-28,Pending,2
+1064,C065,Female,27,Mumbai,Beauty,Perfume,5,36949,184745,Credit Card,2025-01-03,Returned,4
+1065,C066,Male,41,Lucknow,Electronics,Tablet,4,53193,212772,PayPal,2025-09-08,Delivered,1
+1066,C067,Male,53,Lucknow,Electronics,Smartphone,4,36230,144920,COD,2025-05-24,Returned,4
+1067,C068,Female,51,Hyderabad,Home,Curtains,3,2776,8328,PayPal,2025-09-09,Delivered,2
+1068,C069,Male,51,Delhi,Sports,Tennis Racket,1,29393,29393,PayPal,2025-06-07,Delivered,2
+1069,C070,Female,43,Jaipur,Fashion,Jacket,3,14169,42507,PayPal,2025-01-01,Cancelled,2
+1070,C071,Female,18,Delhi,Sports,Gym Gloves,2,19371,38742,UPI,2025-12-25,Delivered,4
+1071,C072,Female,50,Bangalore,Fashion,Saree,3,35855,107565,COD,2025-06-30,Returned,3
+1072,C073,Female,36,Kolkata,Home,Bedsheet,4,23399,93596,PayPal,2025-04-04,Pending,1
+1073,C074,Male,51,Hyderabad,Home,Cookware,1,59713,59713,UPI,2025-09-11,Cancelled,5
+1074,C075,Female,22,Pune,Beauty,Hair Oil,2,3521,7042,COD,2025-06-16,Pending,5
+1075,C076,Male,44,Hyderabad,Beauty,Face Cream,3,5796,17388,Credit Card,2025-12-16,Cancelled,3
+1076,C077,Male,28,Bangalore,Fashion,Jacket,5,51804,259020,UPI,2025-08-24,Cancelled,1
+1077,C078,Male,28,Delhi,Electronics,Laptop,3,53700,161100,UPI,2025-12-12,Returned,1
+1078,C079,Male,43,Mumbai,Fashion,Jeans,1,9917,9917,Credit Card,2025-02-02,Cancelled,1
+1079,C080,Male,57,Delhi,Fashion,Jeans,5,30405,152025,PayPal,2025-03-17,Delivered,1
+1080,C081,Female,26,Bangalore,Fashion,T-Shirt,3,5727,17181,Credit Card,2025-11-25,Cancelled,1
+1081,C082,Female,46,Indore,Electronics,Headphones,5,23800,119000,Credit Card,2025-09-27,Returned,2
+1082,C083,Female,56,Bangalore,Books,Magazine,3,35160,105480,PayPal,2025-08-16,Pending,3
+1083,C084,Female,55,Indore,Electronics,Laptop,5,23306,116530,PayPal,2025-01-12,Cancelled,1
+1084,C085,Female,51,Delhi,Electronics,Tablet,5,36714,183570,UPI,2025-11-08,Delivered,5
+1085,C086,Male,21,Kolkata,Home,Curtains,1,3296,3296,Credit Card,2026-01-13,Delivered,5
+1086,C087,Female,18,Bangalore,Electronics,Smartwatch,3,38258,114774,PayPal,2025-04-23,Delivered,5
+1087,C088,Male,29,Delhi,Books,Comics,3,20831,62493,Credit Card,2026-03-05,Delivered,1
+1088,C089,Female,55,Jaipur,Sports,Tennis Racket,2,16934,33868,PayPal,2025-10-21,Pending,2
+1089,C090,Female,18,Jaipur,Electronics,Laptop,2,45444,90888,Credit Card,2025-09-07,Delivered,5
+1090,C091,Male,43,Indore,Home,Curtains,3,29439,88317,PayPal,2025-02-17,Delivered,5
+1091,C092,Female,44,Lucknow,Electronics,Headphones,3,12277,36831,Credit Card,2026-01-23,Pending,3
+1092,C093,Female,44,Kolkata,Sports,Tennis Racket,5,19369,96845,COD,2025-05-20,Cancelled,4
+1093,C094,Female,31,Hyderabad,Electronics,Tablet,4,25218,100872,UPI,2025-03-03,Returned,1
+1094,C095,Male,36,Hyderabad,Books,Textbook,2,28211,56422,UPI,2025-04-27,Pending,5
+1095,C096,Male,18,Pune,Electronics,Laptop,2,3427,6854,Credit Card,2026-02-22,Pending,1
+1096,C097,Female,37,Mumbai,Beauty,Shampoo,2,52485,104970,UPI,2026-01-18,Delivered,1
+1097,C098,Female,40,Kolkata,Sports,Tennis Racket,2,44035,88070,COD,2025-02-27,Returned,3
+1098,C099,Female,51,Pune,Home,Cookware,4,30405,121620,COD,2025-02-15,Delivered,2
+1099,C100,Male,35,Bangalore,Sports,Cricket Bat,1,12223,12223,PayPal,2025-04-14,Returned,2
+1100,C101,Female,21,Hyderabad,Home,Bedsheet,1,43972,43972,Credit Card,2025-08-13,Pending,1
+1101,C102,Male,21,Kolkata,Electronics,Headphones,5,47665,238325,UPI,2025-01-05,Cancelled,4
+1102,C103,Male,30,Jaipur,Electronics,Tablet,1,7783,7783,Credit Card,2025-12-23,Pending,2
+1103,C104,Male,45,Mumbai,Beauty,Hair Oil,1,6017,6017,PayPal,2025-10-29,Delivered,3
+1104,C105,Female,35,Delhi,Electronics,Smartwatch,4,46814,187256,Credit Card,2025-01-31,Returned,3
+1105,C106,Female,47,Mumbai,Beauty,Lipstick,1,527,527,PayPal,2025-12-30,Cancelled,4
+1106,C107,Male,50,Mumbai,Fashion,Saree,3,32228,96684,PayPal,2025-04-20,Delivered,4
+1107,C108,Female,42,Kolkata,Home,Curtains,5,16465,82325,PayPal,2025-02-09,Delivered,2
+1108,C109,Female,27,Pune,Sports,Cricket Bat,4,12173,48692,COD,2025-01-26,Delivered,1
+1109,C110,Male,45,Hyderabad,Sports,Tennis Racket,5,17647,88235,UPI,2025-09-08,Cancelled,2
+1110,C111,Female,34,Hyderabad,Home,Mixer Grinder,3,44722,134166,UPI,2025-04-03,Delivered,3
+1111,C112,Male,38,Bangalore,Sports,Tennis Racket,2,15567,31134,Credit Card,2025-03-30,Delivered,2
+1112,C113,Female,44,Jaipur,Fashion,Shoes,5,41091,205455,Credit Card,2025-03-19,Pending,3
+1113,C114,Male,24,Jaipur,Home,Bedsheet,1,18270,18270,UPI,2025-12-06,Cancelled,3
+1114,C115,Female,47,Mumbai,Beauty,Shampoo,5,54184,270920,Credit Card,2025-01-01,Returned,3
+1115,C116,Male,22,Chennai,Electronics,Smartwatch,1,21635,21635,Credit Card,2026-02-21,Returned,5
+1116,C117,Male,25,Chennai,Books,Comics,4,23396,93584,PayPal,2025-05-20,Cancelled,4
+1117,C118,Female,49,Indore,Fashion,T-Shirt,2,5534,11068,PayPal,2025-12-20,Cancelled,5
+1118,C119,Male,43,Kolkata,Beauty,Face Cream,4,25724,102896,COD,2026-02-10,Cancelled,1
+1119,C120,Male,51,Lucknow,Books,Comics,1,5793,5793,UPI,2026-03-18,Delivered,4
+1120,C121,Female,28,Indore,Beauty,Shampoo,5,11184,55920,Credit Card,2026-03-07,Pending,1
+1121,C122,Female,48,Chennai,Books,Comics,4,45593,182372,PayPal,2025-01-15,Pending,2
+1122,C123,Female,43,Jaipur,Sports,Cricket Bat,1,22796,22796,PayPal,2025-07-01,Returned,1
+1123,C124,Male,52,Pune,Books,Textbook,2,21976,43952,PayPal,2025-04-26,Pending,2
+1124,C125,Female,57,Lucknow,Books,Biography,3,13598,40794,UPI,2026-03-01,Returned,4
+1125,C126,Male,54,Jaipur,Sports,Cricket Bat,3,33731,101193,UPI,2025-11-19,Delivered,1
+1126,C127,Female,32,Bangalore,Fashion,Jeans,3,24268,72804,UPI,2025-12-31,Cancelled,3
+1127,C128,Female,49,Delhi,Fashion,Jacket,1,50219,50219,UPI,2025-07-24,Returned,1
+1128,C129,Female,25,Mumbai,Beauty,Hair Oil,5,58349,291745,PayPal,2026-02-22,Returned,1
+1129,C130,Female,60,Indore,Sports,Gym Gloves,4,50004,200016,PayPal,2025-11-26,Returned,4
+1130,C131,Male,50,Pune,Sports,Yoga Mat,4,3627,14508,UPI,2026-01-19,Pending,4
+1131,C132,Male,21,Jaipur,Books,Textbook,4,26476,105904,UPI,2025-12-18,Pending,2
+1132,C133,Male,29,Pune,Books,Textbook,2,37460,74920,COD,2025-05-13,Returned,4
+1133,C134,Female,27,Jaipur,Beauty,Hair Oil,2,15233,30466,Credit Card,2025-05-15,Delivered,1
+1134,C135,Female,24,Mumbai,Home,Mixer Grinder,3,58321,174963,COD,2025-08-29,Cancelled,5
+1135,C136,Male,25,Bangalore,Electronics,Smartwatch,2,17070,34140,PayPal,2025-09-10,Pending,4
+1136,C137,Female,51,Mumbai,Beauty,Perfume,2,43255,86510,Credit Card,2025-07-13,Returned,4
+1137,C138,Female,43,Hyderabad,Home,Cookware,1,8814,8814,COD,2026-02-18,Delivered,4
+1138,C139,Male,35,Bangalore,Beauty,Lipstick,2,35133,70266,COD,2025-07-26,Returned,5
+1139,C140,Male,28,Chennai,Beauty,Lipstick,2,52484,104968,COD,2025-03-11,Returned,2
+1140,C141,Male,34,Pune,Books,Comics,1,46831,46831,Credit Card,2025-09-23,Pending,5
+1141,C142,Female,26,Indore,Sports,Football,2,10016,20032,PayPal,2025-04-14,Cancelled,3
+1142,C143,Female,51,Pune,Books,Magazine,5,46123,230615,UPI,2025-03-04,Delivered,4
+1143,C144,Male,48,Chennai,Electronics,Laptop,2,4586,9172,PayPal,2025-08-30,Delivered,3
+1144,C145,Female,23,Hyderabad,Home,Cookware,4,54278,217112,COD,2025-07-16,Cancelled,5
+1145,C146,Female,39,Bangalore,Books,Biography,2,53410,106820,COD,2025-01-23,Pending,1
+1146,C147,Male,38,Mumbai,Beauty,Face Cream,2,24450,48900,UPI,2025-05-24,Delivered,1
+1147,C148,Female,48,Kolkata,Books,Textbook,5,28092,140460,UPI,2025-01-29,Returned,5
+1148,C149,Female,46,Kolkata,Beauty,Perfume,2,52121,104242,UPI,2025-02-11,Pending,2
+1149,C150,Male,37,Kolkata,Home,Curtains,5,32859,164295,COD,2025-10-12,Cancelled,1
+1150,C151,Male,28,Chennai,Fashion,Saree,2,51652,103304,PayPal,2026-01-29,Cancelled,3
+1151,C152,Male,57,Hyderabad,Beauty,Hair Oil,4,31410,125640,UPI,2026-02-13,Pending,5
+1152,C153,Male,51,Pune,Home,Mixer Grinder,1,36475,36475,PayPal,2026-02-16,Pending,2
+1153,C154,Male,43,Indore,Electronics,Headphones,5,36412,182060,UPI,2025-12-23,Delivered,1
+1154,C155,Male,55,Mumbai,Fashion,T-Shirt,3,56090,168270,PayPal,2025-01-15,Returned,3
+1155,C156,Female,30,Delhi,Electronics,Smartphone,3,8606,25818,Credit Card,2025-05-31,Returned,4
+1156,C157,Female,44,Lucknow,Electronics,Tablet,5,39838,199190,Credit Card,2025-12-31,Pending,3
+1157,C158,Male,51,Delhi,Beauty,Shampoo,5,12852,64260,PayPal,2025-02-02,Pending,3
+1158,C159,Female,60,Mumbai,Fashion,Shoes,1,9945,9945,PayPal,2026-03-27,Returned,1
+1159,C160,Male,56,Pune,Electronics,Laptop,2,45584,91168,COD,2025-10-08,Pending,2
+1160,C161,Female,46,Lucknow,Home,Bedsheet,5,44514,222570,UPI,2025-03-05,Delivered,3
+1161,C162,Female,34,Bangalore,Fashion,T-Shirt,1,10156,10156,PayPal,2025-02-16,Cancelled,2
+1162,C163,Male,46,Delhi,Fashion,T-Shirt,2,1738,3476,COD,2025-02-07,Cancelled,3
+1163,C164,Male,18,Mumbai,Electronics,Laptop,5,40557,202785,PayPal,2025-05-16,Delivered,5
+1164,C165,Male,30,Bangalore,Home,Curtains,5,29994,149970,COD,2025-08-27,Delivered,2
+1165,C166,Female,41,Pune,Books,Textbook,3,40521,121563,COD,2025-05-19,Pending,2
+1166,C167,Male,43,Chennai,Electronics,Tablet,4,54692,218768,PayPal,2026-03-26,Pending,3
+1167,C168,Female,31,Delhi,Beauty,Hair Oil,3,40115,120345,Credit Card,2025-03-17,Returned,5
+1168,C169,Male,45,Indore,Beauty,Hair Oil,5,46840,234200,Credit Card,2026-03-03,Returned,1
+1169,C170,Female,43,Delhi,Electronics,Laptop,1,8217,8217,Credit Card,2025-09-16,Pending,5
+1170,C171,Male,44,Kolkata,Electronics,Laptop,5,17759,88795,COD,2026-03-22,Pending,2
+1171,C172,Male,27,Lucknow,Electronics,Smartphone,4,17152,68608,Credit Card,2025-03-29,Pending,1
+1172,C173,Female,56,Delhi,Electronics,Smartwatch,4,15269,61076,Credit Card,2025-09-17,Cancelled,2
+1173,C174,Male,33,Jaipur,Home,Mixer Grinder,1,36574,36574,PayPal,2025-11-17,Delivered,5
+1174,C175,Male,41,Pune,Electronics,Smartwatch,1,53305,53305,UPI,2026-02-21,Pending,2
+1175,C176,Female,48,Mumbai,Sports,Tennis Racket,4,1932,7728,Credit Card,2025-03-26,Pending,5
+1176,C177,Female,32,Delhi,Books,Novel,4,24729,98916,UPI,2026-02-16,Pending,4
+1177,C178,Female,41,Kolkata,Fashion,Shoes,5,44441,222205,PayPal,2025-12-13,Delivered,2
+1178,C179,Male,49,Lucknow,Beauty,Lipstick,3,30584,91752,Credit Card,2025-07-27,Cancelled,1
+1179,C180,Female,59,Mumbai,Sports,Tennis Racket,5,20438,102190,Credit Card,2025-01-08,Cancelled,1
+1180,C181,Male,43,Hyderabad,Home,Lamp,5,50659,253295,UPI,2025-12-12,Pending,5
+1181,C182,Male,22,Bangalore,Home,Mixer Grinder,1,21330,21330,Credit Card,2025-08-07,Pending,3
+1182,C183,Male,48,Mumbai,Fashion,Saree,1,800,800,COD,2026-01-09,Pending,4
+1183,C184,Male,39,Lucknow,Home,Bedsheet,5,9491,47455,UPI,2025-08-09,Pending,1
+1184,C185,Female,31,Jaipur,Home,Mixer Grinder,4,46879,187516,Credit Card,2025-12-04,Pending,5
+1185,C186,Male,30,Delhi,Home,Lamp,3,1880,5640,Credit Card,2025-07-01,Delivered,1
+1186,C187,Male,28,Lucknow,Sports,Tennis Racket,3,51646,154938,UPI,2025-06-16,Returned,5
+1187,C188,Female,47,Jaipur,Beauty,Shampoo,4,55311,221244,PayPal,2025-05-09,Delivered,1
+1188,C189,Male,18,Hyderabad,Electronics,Laptop,1,56765,56765,COD,2026-03-20,Pending,5
+1189,C190,Female,57,Pune,Home,Curtains,3,28880,86640,Credit Card,2025-12-22,Pending,5
+1190,C191,Female,47,Lucknow,Sports,Cricket Bat,5,22301,111505,PayPal,2025-05-01,Pending,3
+1191,C192,Male,31,Pune,Sports,Tennis Racket,2,1948,3896,PayPal,2026-01-26,Cancelled,1
+1192,C193,Male,41,Jaipur,Sports,Tennis Racket,2,33312,66624,PayPal,2025-02-14,Pending,1
+1193,C194,Male,51,Kolkata,Beauty,Lipstick,5,15496,77480,PayPal,2025-01-14,Pending,5
+1194,C195,Male,38,Bangalore,Home,Lamp,2,1641,3282,UPI,2025-12-03,Cancelled,4
+1195,C196,Female,24,Bangalore,Sports,Cricket Bat,1,49510,49510,Credit Card,2025-03-02,Returned,3
+1196,C197,Male,39,Hyderabad,Home,Curtains,4,2139,8556,Credit Card,2025-09-19,Delivered,2
+1197,C198,Female,46,Indore,Home,Lamp,5,55676,278380,UPI,2025-07-27,Returned,2
+1198,C199,Female,51,Lucknow,Home,Mixer Grinder,1,28759,28759,Credit Card,2025-01-31,Cancelled,1
+1199,C200,Female,26,Jaipur,Books,Magazine,3,46165,138495,COD,2025-03-28,Pending,2
+1200,C201,Male,20,Kolkata,Fashion,Saree,4,8608,34432,Credit Card,2025-01-24,Delivered,3
+1201,C202,Female,22,Kolkata,Sports,Cricket Bat,2,32414,64828,COD,2026-03-05,Pending,1
+1202,C203,Male,40,Chennai,Books,Novel,2,54718,109436,PayPal,2025-04-07,Cancelled,3
+1203,C204,Male,23,Pune,Fashion,T-Shirt,3,36329,108987,COD,2025-04-09,Cancelled,4
+1204,C205,Female,59,Indore,Electronics,Headphones,1,52030,52030,Credit Card,2025-02-04,Cancelled,2
+1205,C206,Male,26,Pune,Beauty,Face Cream,2,43528,87056,UPI,2025-06-30,Cancelled,4
+1206,C207,Male,29,Mumbai,Sports,Yoga Mat,1,17728,17728,Credit Card,2025-09-21,Returned,5
+1207,C208,Female,39,Indore,Beauty,Perfume,3,45041,135123,UPI,2025-11-30,Delivered,3
+1208,C209,Female,52,Kolkata,Books,Comics,1,34155,34155,UPI,2025-11-26,Delivered,5
+1209,C210,Male,54,Jaipur,Electronics,Smartwatch,2,36724,73448,COD,2026-02-27,Delivered,3
+1210,C211,Male,36,Delhi,Electronics,Headphones,4,17194,68776,UPI,2025-08-26,Pending,2
+1211,C212,Female,54,Delhi,Home,Curtains,4,37094,148376,COD,2025-07-27,Pending,4
+1212,C213,Male,50,Jaipur,Sports,Yoga Mat,2,15027,30054,UPI,2026-02-09,Cancelled,4
+1213,C214,Female,44,Pune,Electronics,Laptop,3,41472,124416,Credit Card,2025-11-12,Returned,4
+1214,C215,Female,43,Hyderabad,Books,Magazine,1,5217,5217,UPI,2025-08-08,Returned,3
+1215,C216,Female,50,Jaipur,Sports,Cricket Bat,4,30411,121644,Credit Card,2025-01-23,Pending,3
+1216,C217,Male,52,Chennai,Fashion,Jacket,1,4822,4822,COD,2025-07-11,Pending,4
+1217,C218,Male,37,Jaipur,Beauty,Shampoo,5,34241,171205,UPI,2025-04-04,Pending,4
+1218,C219,Male,28,Hyderabad,Fashion,T-Shirt,2,12550,25100,UPI,2025-02-03,Delivered,4
+1219,C220,Female,33,Jaipur,Fashion,Jeans,4,25038,100152,UPI,2025-02-11,Delivered,4
+1220,C221,Male,47,Delhi,Books,Novel,1,33505,33505,UPI,2025-06-05,Pending,3
+1221,C222,Female,39,Lucknow,Sports,Cricket Bat,4,823,3292,COD,2026-02-22,Cancelled,4
+1222,C223,Female,27,Delhi,Sports,Yoga Mat,3,40506,121518,Credit Card,2025-02-28,Cancelled,1
+1223,C224,Female,28,Lucknow,Home,Cookware,5,44483,222415,Credit Card,2026-03-04,Delivered,2
+1224,C225,Female,28,Jaipur,Books,Novel,2,31877,63754,UPI,2025-08-01,Pending,3
+1225,C226,Female,38,Delhi,Books,Biography,5,15680,78400,UPI,2025-08-20,Returned,1
+1226,C227,Female,26,Chennai,Fashion,Jeans,4,44529,178116,UPI,2025-10-26,Cancelled,2
+1227,C228,Female,38,Lucknow,Fashion,Jeans,2,47631,95262,UPI,2025-08-13,Delivered,5
+1228,C229,Male,46,Mumbai,Books,Novel,2,58751,117502,Credit Card,2025-01-07,Delivered,4
+1229,C230,Male,56,Bangalore,Electronics,Smartphone,1,8869,8869,COD,2025-04-23,Pending,5
+1230,C231,Female,57,Indore,Home,Lamp,4,15467,61868,PayPal,2025-10-25,Returned,5
+1231,C232,Female,23,Kolkata,Books,Biography,1,37987,37987,UPI,2026-02-03,Returned,1
+1232,C233,Female,49,Mumbai,Fashion,Jeans,2,54061,108122,COD,2025-01-25,Delivered,4
+1233,C234,Female,49,Bangalore,Beauty,Face Cream,3,53186,159558,COD,2025-03-06,Returned,4
+1234,C235,Male,50,Indore,Home,Bedsheet,1,43759,43759,PayPal,2025-02-16,Cancelled,4
+1235,C236,Male,19,Lucknow,Home,Bedsheet,3,21483,64449,UPI,2025-03-17,Delivered,3
+1236,C237,Female,43,Hyderabad,Home,Mixer Grinder,2,36630,73260,COD,2025-04-04,Cancelled,2
+1237,C238,Female,60,Jaipur,Books,Magazine,1,59430,59430,PayPal,2025-12-06,Pending,2
+1238,C239,Female,25,Hyderabad,Beauty,Face Cream,1,19031,19031,PayPal,2025-03-01,Pending,3
+1239,C240,Female,38,Hyderabad,Fashion,Shoes,4,41571,166284,COD,2025-02-18,Cancelled,4
+1240,C241,Female,25,Chennai,Home,Curtains,3,33081,99243,Credit Card,2026-02-14,Cancelled,1
+1241,C242,Male,45,Jaipur,Fashion,Jacket,5,24049,120245,Credit Card,2026-03-10,Delivered,4
+1242,C243,Female,28,Hyderabad,Electronics,Headphones,5,33111,165555,PayPal,2025-06-29,Delivered,5
+1243,C244,Female,39,Pune,Electronics,Smartphone,3,22533,67599,Credit Card,2025-02-20,Delivered,2
+1244,C245,Male,18,Lucknow,Fashion,Saree,1,32025,32025,Credit Card,2025-02-28,Cancelled,2
+1245,C246,Female,57,Pune,Beauty,Hair Oil,1,55713,55713,UPI,2025-08-05,Returned,2
+1246,C247,Female,52,Indore,Fashion,T-Shirt,3,21607,64821,Credit Card,2025-03-20,Pending,4
+1247,C248,Male,45,Delhi,Books,Textbook,4,19495,77980,Credit Card,2026-01-17,Pending,5
+1248,C249,Male,35,Mumbai,Beauty,Hair Oil,4,55669,222676,COD,2026-02-20,Returned,4
+1249,C250,Female,38,Bangalore,Home,Curtains,4,1778,7112,Credit Card,2026-02-11,Cancelled,2
+1250,C251,Male,30,Hyderabad,Home,Lamp,4,741,2964,COD,2025-06-10,Delivered,1
+1251,C252,Female,41,Mumbai,Beauty,Lipstick,3,32429,97287,UPI,2026-03-26,Returned,1
+1252,C253,Female,48,Indore,Fashion,Jeans,3,26696,80088,UPI,2026-01-28,Returned,4
+1253,C254,Female,58,Chennai,Books,Magazine,2,51550,103100,Credit Card,2025-11-12,Delivered,5
+1254,C255,Female,37,Bangalore,Books,Magazine,3,39480,118440,PayPal,2025-06-09,Cancelled,4
+1255,C256,Male,20,Chennai,Beauty,Hair Oil,1,58714,58714,UPI,2026-01-01,Delivered,5
+1256,C257,Female,52,Jaipur,Electronics,Headphones,2,18088,36176,COD,2025-10-26,Returned,4
+1257,C258,Male,43,Mumbai,Books,Textbook,5,25808,129040,PayPal,2025-07-05,Pending,5
+1258,C259,Female,20,Chennai,Books,Textbook,5,45419,227095,PayPal,2025-03-30,Pending,4
+1259,C260,Female,22,Bangalore,Home,Bedsheet,2,58666,117332,PayPal,2026-02-15,Delivered,1
+1260,C261,Male,53,Bangalore,Fashion,Saree,3,44424,133272,PayPal,2025-05-07,Delivered,2
+1261,C262,Female,26,Mumbai,Beauty,Lipstick,5,44116,220580,PayPal,2025-10-26,Returned,2
+1262,C263,Female,29,Indore,Home,Lamp,3,52751,158253,Credit Card,2025-03-26,Cancelled,1
+1263,C264,Male,60,Lucknow,Fashion,Jacket,1,41337,41337,Credit Card,2025-03-07,Returned,1
+1264,C265,Female,25,Kolkata,Sports,Cricket Bat,1,30273,30273,UPI,2026-03-06,Returned,1
+1265,C266,Female,45,Hyderabad,Sports,Tennis Racket,5,51884,259420,PayPal,2025-04-20,Cancelled,4
+1266,C267,Male,34,Pune,Home,Curtains,2,50822,101644,Credit Card,2026-02-26,Cancelled,3
+1267,C268,Female,52,Lucknow,Fashion,Jeans,1,8918,8918,Credit Card,2026-02-16,Returned,1
+1268,C269,Male,45,Lucknow,Fashion,Jeans,3,3910,11730,PayPal,2025-02-20,Delivered,2
+1269,C270,Female,55,Mumbai,Books,Magazine,5,13287,66435,COD,2025-08-05,Pending,4
+1270,C271,Male,24,Mumbai,Home,Cookware,5,36331,181655,Credit Card,2026-01-26,Returned,5
+1271,C272,Male,53,Mumbai,Electronics,Tablet,2,38679,77358,COD,2026-02-19,Pending,4
+1272,C273,Male,57,Hyderabad,Beauty,Shampoo,1,38682,38682,PayPal,2025-02-25,Cancelled,5
+1273,C274,Female,60,Delhi,Sports,Gym Gloves,1,55169,55169,Credit Card,2025-12-18,Delivered,5
+1274,C275,Male,55,Pune,Home,Bedsheet,1,56134,56134,COD,2025-10-21,Cancelled,5
+1275,C276,Male,43,Jaipur,Sports,Gym Gloves,3,11698,35094,Credit Card,2025-10-14,Pending,5
+1276,C277,Female,24,Jaipur,Electronics,Laptop,4,208,832,UPI,2025-01-31,Delivered,3
+1277,C278,Female,18,Lucknow,Fashion,Jeans,3,8838,26514,UPI,2026-01-18,Returned,3
+1278,C279,Male,30,Kolkata,Books,Comics,1,12269,12269,PayPal,2025-04-17,Returned,5
+1279,C280,Female,29,Hyderabad,Home,Lamp,1,22845,22845,COD,2025-02-02,Pending,3
+1280,C281,Male,47,Indore,Home,Cookware,4,15553,62212,Credit Card,2025-10-02,Cancelled,4
+1281,C282,Female,50,Bangalore,Books,Biography,5,33390,166950,Credit Card,2025-04-06,Returned,4
+1282,C283,Male,39,Mumbai,Books,Textbook,1,4963,4963,Credit Card,2026-03-18,Delivered,2
+1283,C284,Female,55,Lucknow,Electronics,Smartwatch,4,10520,42080,UPI,2025-08-06,Delivered,5
+1284,C285,Male,42,Indore,Electronics,Laptop,3,40337,121011,Credit Card,2025-09-23,Returned,3
+1285,C286,Male,45,Lucknow,Fashion,Shoes,4,47153,188612,UPI,2025-04-10,Delivered,1
+1286,C287,Male,46,Delhi,Fashion,Saree,1,6549,6549,COD,2025-01-29,Returned,4
+1287,C288,Male,31,Delhi,Electronics,Tablet,5,9134,45670,PayPal,2025-12-16,Returned,3
+1288,C289,Female,46,Jaipur,Fashion,T-Shirt,2,58555,117110,PayPal,2025-12-31,Pending,5
+1289,C290,Female,37,Mumbai,Sports,Tennis Racket,1,41582,41582,Credit Card,2025-03-26,Delivered,2
+1290,C291,Male,20,Hyderabad,Electronics,Tablet,5,6791,33955,Credit Card,2025-12-30,Delivered,5
+1291,C292,Male,35,Chennai,Home,Curtains,4,34743,138972,Credit Card,2026-02-08,Cancelled,3
+1292,C293,Male,30,Lucknow,Beauty,Shampoo,3,7805,23415,PayPal,2025-04-08,Pending,2
+1293,C294,Female,52,Kolkata,Fashion,Jacket,2,55606,111212,PayPal,2025-01-23,Pending,4
+1294,C295,Male,30,Kolkata,Electronics,Tablet,4,30122,120488,PayPal,2025-03-14,Delivered,3
+1295,C296,Male,53,Chennai,Home,Mixer Grinder,1,18469,18469,COD,2025-05-17,Cancelled,5
+1296,C297,Male,41,Chennai,Books,Comics,1,31809,31809,Credit Card,2025-04-22,Delivered,2
+1297,C298,Male,27,Hyderabad,Home,Cookware,3,24684,74052,COD,2025-02-28,Cancelled,4
+1298,C299,Female,35,Pune,Beauty,Perfume,1,40604,40604,COD,2025-06-01,Cancelled,5
+1299,C300,Female,47,Indore,Fashion,Jacket,4,24601,98404,COD,2025-03-21,Pending,2
+1300,C301,Female,19,Chennai,Beauty,Face Cream,2,15365,30730,Credit Card,2025-11-05,Pending,4
+1301,C302,Male,56,Indore,Fashion,T-Shirt,3,20811,62433,UPI,2025-08-13,Cancelled,4
+1302,C303,Male,58,Chennai,Home,Cookware,2,582,1164,Credit Card,2026-02-02,Delivered,4
+1303,C304,Female,54,Pune,Books,Comics,2,12834,25668,COD,2025-07-09,Pending,3
+1304,C305,Male,32,Lucknow,Home,Cookware,3,52300,156900,COD,2025-11-08,Cancelled,3
+1305,C306,Male,40,Delhi,Books,Textbook,3,27779,83337,UPI,2025-01-18,Returned,3
+1306,C307,Female,21,Bangalore,Fashion,Jeans,1,6527,6527,Credit Card,2025-02-07,Delivered,5
+1307,C308,Female,21,Mumbai,Home,Cookware,3,56605,169815,PayPal,2025-01-24,Returned,3
+1308,C309,Female,46,Lucknow,Books,Novel,4,34632,138528,COD,2025-09-13,Delivered,5
+1309,C310,Male,53,Kolkata,Electronics,Headphones,3,39246,117738,UPI,2025-07-20,Cancelled,5
+1310,C311,Male,54,Hyderabad,Home,Bedsheet,3,50999,152997,Credit Card,2025-08-11,Delivered,2
+1311,C312,Male,26,Mumbai,Electronics,Tablet,2,13166,26332,Credit Card,2025-11-14,Cancelled,5
+1312,C313,Male,60,Delhi,Home,Lamp,2,20009,40018,COD,2025-07-24,Pending,5
+1313,C314,Female,21,Mumbai,Books,Biography,2,2405,4810,UPI,2025-09-14,Returned,3
+1314,C315,Male,26,Chennai,Home,Mixer Grinder,2,36348,72696,UPI,2025-01-15,Delivered,2
+1315,C316,Male,41,Lucknow,Home,Lamp,5,20821,104105,COD,2025-05-23,Cancelled,1
+1316,C317,Female,21,Jaipur,Books,Magazine,5,52234,261170,UPI,2025-01-09,Pending,2
+1317,C318,Female,47,Jaipur,Electronics,Tablet,5,56216,281080,UPI,2025-09-06,Cancelled,4
+1318,C319,Male,53,Delhi,Beauty,Hair Oil,2,58282,116564,COD,2025-01-22,Delivered,1
+1319,C320,Male,50,Pune,Beauty,Hair Oil,2,26981,53962,UPI,2025-10-30,Pending,4
+1320,C321,Male,22,Lucknow,Fashion,Jeans,2,24476,48952,COD,2025-10-29,Cancelled,1
+1321,C322,Female,23,Delhi,Books,Novel,4,7560,30240,Credit Card,2025-09-16,Pending,5
+1322,C323,Male,30,Indore,Beauty,Hair Oil,5,49255,246275,Credit Card,2025-04-27,Cancelled,3
+1323,C324,Male,55,Kolkata,Home,Bedsheet,3,9777,29331,Credit Card,2025-03-21,Cancelled,1
+1324,C325,Female,47,Kolkata,Sports,Gym Gloves,4,9684,38736,COD,2025-01-08,Delivered,2
+1325,C326,Female,28,Hyderabad,Fashion,Jeans,2,46446,92892,COD,2025-08-10,Delivered,4
+1326,C327,Male,59,Kolkata,Electronics,Laptop,4,25331,101324,Credit Card,2025-05-02,Delivered,2
+1327,C328,Male,25,Chennai,Sports,Cricket Bat,1,4694,4694,UPI,2025-10-12,Cancelled,2
+1328,C329,Female,40,Lucknow,Home,Curtains,3,46910,140730,UPI,2025-06-25,Returned,5
+1329,C330,Female,39,Lucknow,Fashion,Jacket,4,28634,114536,Credit Card,2026-03-18,Returned,3
+1330,C331,Female,33,Hyderabad,Beauty,Lipstick,5,5374,26870,PayPal,2025-02-04,Delivered,3
+1331,C332,Female,47,Bangalore,Home,Mixer Grinder,2,38110,76220,UPI,2025-07-17,Pending,1
+1332,C333,Female,28,Jaipur,Beauty,Perfume,2,54919,109838,UPI,2025-09-16,Delivered,2
+1333,C334,Male,35,Indore,Electronics,Smartphone,3,13312,39936,UPI,2025-04-04,Returned,2
+1334,C335,Female,26,Lucknow,Sports,Tennis Racket,2,25194,50388,COD,2026-02-06,Pending,2
+1335,C336,Female,54,Lucknow,Beauty,Lipstick,2,36080,72160,COD,2025-01-29,Delivered,1
+1336,C337,Female,24,Delhi,Fashion,Shoes,4,32833,131332,Credit Card,2025-02-02,Delivered,4
+1337,C338,Female,41,Indore,Electronics,Headphones,4,57828,231312,PayPal,2026-02-10,Cancelled,2
+1338,C339,Male,37,Chennai,Sports,Tennis Racket,2,35846,71692,PayPal,2025-10-25,Returned,2
+1339,C340,Male,41,Lucknow,Electronics,Headphones,2,10124,20248,UPI,2025-06-17,Returned,2
+1340,C341,Male,58,Hyderabad,Books,Comics,5,24023,120115,UPI,2025-12-11,Delivered,2
+1341,C342,Female,25,Indore,Books,Magazine,3,59441,178323,Credit Card,2026-03-27,Returned,5
+1342,C343,Female,56,Delhi,Sports,Gym Gloves,2,1511,3022,UPI,2025-12-01,Cancelled,2
+1343,C344,Female,18,Hyderabad,Home,Cookware,4,5958,23832,UPI,2025-01-20,Returned,4
+1344,C345,Male,60,Chennai,Books,Comics,3,22994,68982,PayPal,2025-06-16,Delivered,5
+1345,C346,Male,58,Bangalore,Fashion,Jeans,3,18580,55740,Credit Card,2025-11-27,Pending,4
+1346,C347,Female,29,Bangalore,Books,Textbook,5,32693,163465,Credit Card,2025-07-31,Cancelled,2
+1347,C348,Male,28,Hyderabad,Home,Mixer Grinder,3,18001,54003,PayPal,2025-04-28,Cancelled,4
+1348,C349,Male,48,Delhi,Electronics,Headphones,2,47603,95206,PayPal,2025-03-17,Pending,4
+1349,C350,Female,46,Bangalore,Fashion,Saree,3,18466,55398,Credit Card,2025-10-30,Returned,5
+1350,C351,Male,54,Jaipur,Books,Textbook,3,33559,100677,PayPal,2025-02-22,Cancelled,3
+1351,C352,Female,39,Bangalore,Home,Cookware,4,35855,143420,Credit Card,2026-01-19,Cancelled,5
+1352,C353,Male,34,Lucknow,Books,Textbook,4,47449,189796,Credit Card,2025-01-04,Delivered,2
+1353,C354,Male,53,Indore,Beauty,Face Cream,3,36145,108435,PayPal,2025-04-20,Delivered,5
+1354,C355,Male,46,Lucknow,Books,Comics,4,3098,12392,COD,2025-11-09,Cancelled,3
+1355,C356,Female,34,Hyderabad,Electronics,Tablet,2,15725,31450,PayPal,2025-05-06,Cancelled,5
+1356,C357,Female,31,Indore,Books,Comics,3,55406,166218,COD,2025-07-29,Cancelled,1
+1357,C358,Male,40,Delhi,Beauty,Face Cream,5,37800,189000,Credit Card,2025-09-19,Cancelled,5
+1358,C359,Male,45,Bangalore,Books,Novel,3,37113,111339,Credit Card,2025-06-05,Returned,4
+1359,C360,Female,46,Kolkata,Beauty,Lipstick,3,33587,100761,UPI,2025-03-19,Delivered,2
+1360,C361,Female,54,Mumbai,Beauty,Perfume,3,21767,65301,PayPal,2025-06-27,Cancelled,2
+1361,C362,Female,59,Kolkata,Electronics,Laptop,2,15478,30956,COD,2025-01-03,Delivered,3
+1362,C363,Male,47,Kolkata,Books,Comics,2,28409,56818,Credit Card,2025-09-28,Returned,3
+1363,C364,Female,29,Hyderabad,Fashion,Jeans,4,28882,115528,PayPal,2025-09-20,Returned,3
+1364,C365,Male,51,Indore,Sports,Tennis Racket,2,42890,85780,PayPal,2026-01-17,Delivered,5
+1365,C366,Male,52,Jaipur,Beauty,Perfume,2,23567,47134,PayPal,2026-02-18,Pending,1
+1366,C367,Male,44,Lucknow,Books,Biography,2,3564,7128,UPI,2025-10-25,Cancelled,5
+1367,C368,Male,48,Hyderabad,Fashion,T-Shirt,5,54608,273040,UPI,2025-03-09,Delivered,1
+1368,C369,Female,29,Hyderabad,Home,Curtains,4,56367,225468,COD,2025-03-14,Cancelled,3
+1369,C370,Male,34,Indore,Fashion,T-Shirt,1,50953,50953,UPI,2026-01-21,Returned,1
+1370,C371,Female,39,Hyderabad,Home,Bedsheet,2,6246,12492,Credit Card,2025-08-01,Cancelled,1
+1371,C372,Female,23,Hyderabad,Books,Magazine,1,9466,9466,Credit Card,2026-03-01,Pending,5
+1372,C373,Female,46,Bangalore,Electronics,Headphones,4,5054,20216,PayPal,2025-04-01,Cancelled,1
+1373,C374,Male,50,Kolkata,Beauty,Lipstick,2,45429,90858,PayPal,2025-08-02,Returned,5
+1374,C375,Male,43,Bangalore,Beauty,Shampoo,4,34208,136832,COD,2025-11-14,Returned,2
+1375,C376,Male,26,Pune,Home,Lamp,3,38921,116763,PayPal,2026-01-30,Cancelled,1
+1376,C377,Male,30,Lucknow,Fashion,Jacket,3,57134,171402,PayPal,2026-02-28,Cancelled,5
+1377,C378,Male,23,Hyderabad,Electronics,Smartphone,2,36684,73368,Credit Card,2025-04-14,Pending,2
+1378,C379,Male,32,Delhi,Sports,Gym Gloves,5,16162,80810,COD,2026-03-22,Cancelled,2
+1379,C380,Female,43,Delhi,Home,Mixer Grinder,5,27491,137455,PayPal,2025-08-11,Pending,2
+1380,C381,Male,54,Chennai,Beauty,Perfume,4,7008,28032,UPI,2025-12-31,Returned,1
+1381,C382,Male,45,Hyderabad,Home,Lamp,5,13220,66100,UPI,2025-11-02,Pending,1
+1382,C383,Male,25,Delhi,Fashion,Jeans,3,55963,167889,COD,2025-06-04,Cancelled,1
+1383,C384,Female,20,Delhi,Fashion,Saree,3,4242,12726,PayPal,2025-09-25,Pending,2
+1384,C385,Male,25,Pune,Fashion,Saree,5,36262,181310,UPI,2025-04-30,Delivered,1
+1385,C386,Female,50,Indore,Home,Bedsheet,1,21937,21937,PayPal,2025-06-16,Cancelled,5
+1386,C387,Female,24,Chennai,Home,Bedsheet,3,25921,77763,COD,2025-06-05,Delivered,5
+1387,C388,Female,35,Bangalore,Electronics,Smartphone,4,44986,179944,UPI,2025-12-06,Pending,3
+1388,C389,Female,21,Chennai,Beauty,Lipstick,5,4707,23535,PayPal,2026-02-09,Cancelled,3
+1389,C390,Male,50,Mumbai,Sports,Football,2,12598,25196,Credit Card,2025-03-07,Delivered,1
+1390,C391,Male,39,Mumbai,Fashion,Shoes,5,19670,98350,Credit Card,2025-06-30,Pending,4
+1391,C392,Male,35,Jaipur,Electronics,Laptop,1,11088,11088,PayPal,2025-10-06,Cancelled,2
+1392,C393,Female,18,Hyderabad,Sports,Yoga Mat,2,18078,36156,Credit Card,2026-01-29,Delivered,1
+1393,C394,Male,59,Mumbai,Home,Mixer Grinder,2,21523,43046,Credit Card,2025-08-11,Cancelled,3
+1394,C395,Male,25,Bangalore,Home,Mixer Grinder,2,47132,94264,Credit Card,2025-04-11,Returned,2
+1395,C396,Male,22,Indore,Books,Comics,1,9707,9707,UPI,2025-07-28,Cancelled,3
+1396,C397,Female,32,Pune,Electronics,Tablet,1,9744,9744,PayPal,2025-11-18,Cancelled,4
+1397,C398,Male,32,Chennai,Home,Cookware,1,4341,4341,PayPal,2025-07-15,Cancelled,2
+1398,C399,Male,21,Indore,Sports,Football,3,27346,82038,UPI,2026-03-05,Returned,3
+1399,C400,Female,24,Indore,Books,Biography,5,19944,99720,COD,2026-01-01,Cancelled,1
+1400,C401,Male,20,Chennai,Fashion,Shoes,5,32023,160115,Credit Card,2025-03-06,Cancelled,1
+1401,C402,Female,24,Jaipur,Home,Cookware,5,13325,66625,COD,2025-10-11,Returned,2
+1402,C403,Male,56,Indore,Sports,Cricket Bat,5,51642,258210,UPI,2025-06-06,Cancelled,2
+1403,C404,Female,35,Pune,Electronics,Headphones,1,54576,54576,UPI,2025-04-19,Cancelled,2
+1404,C405,Female,37,Chennai,Electronics,Smartwatch,5,12487,62435,UPI,2025-03-27,Pending,1
+1405,C406,Female,49,Pune,Beauty,Hair Oil,5,46134,230670,COD,2025-12-22,Returned,2
+1406,C407,Male,19,Lucknow,Home,Bedsheet,3,10116,30348,COD,2025-06-05,Pending,3
+1407,C408,Female,38,Jaipur,Books,Biography,1,49842,49842,PayPal,2026-03-11,Returned,4
+1408,C409,Female,48,Delhi,Sports,Cricket Bat,5,21784,108920,UPI,2025-10-14,Cancelled,1
+1409,C410,Female,36,Mumbai,Electronics,Headphones,2,20233,40466,UPI,2025-06-07,Returned,4
+1410,C411,Female,53,Jaipur,Beauty,Face Cream,5,32093,160465,PayPal,2026-02-02,Cancelled,2
+1411,C412,Female,53,Bangalore,Sports,Yoga Mat,2,39869,79738,UPI,2025-12-21,Pending,2
+1412,C413,Male,34,Delhi,Electronics,Smartwatch,5,46236,231180,Credit Card,2025-05-18,Pending,3
+1413,C414,Female,50,Pune,Sports,Cricket Bat,5,56197,280985,UPI,2026-02-01,Pending,1
+1414,C415,Female,46,Pune,Books,Comics,3,10315,30945,Credit Card,2025-03-03,Delivered,3
+1415,C416,Male,24,Delhi,Beauty,Perfume,5,10827,54135,COD,2025-04-09,Cancelled,5
+1416,C417,Male,32,Hyderabad,Fashion,Jeans,4,22185,88740,COD,2025-07-11,Pending,4
+1417,C418,Female,47,Lucknow,Sports,Cricket Bat,1,28107,28107,COD,2025-05-06,Returned,3
+1418,C419,Male,38,Indore,Home,Bedsheet,1,2377,2377,Credit Card,2025-01-16,Cancelled,4
+1419,C420,Male,60,Chennai,Home,Mixer Grinder,2,2224,4448,PayPal,2025-11-07,Cancelled,1
+1420,C421,Male,35,Lucknow,Home,Cookware,3,25164,75492,UPI,2026-02-04,Returned,4
+1421,C422,Male,53,Pune,Beauty,Perfume,5,37172,185860,UPI,2025-02-20,Returned,3
+1422,C423,Male,36,Pune,Sports,Cricket Bat,3,3273,9819,UPI,2025-07-21,Delivered,1
+1423,C424,Female,44,Lucknow,Books,Biography,2,7151,14302,Credit Card,2025-07-13,Cancelled,2
+1424,C425,Female,56,Bangalore,Fashion,Jeans,1,20991,20991,COD,2026-02-07,Returned,2
+1425,C426,Female,45,Bangalore,Home,Curtains,5,42501,212505,PayPal,2026-01-15,Cancelled,5
+1426,C427,Female,34,Kolkata,Sports,Football,5,7412,37060,COD,2025-05-18,Cancelled,4
+1427,C428,Male,39,Kolkata,Home,Curtains,4,7479,29916,UPI,2025-08-23,Pending,2
+1428,C429,Male,30,Indore,Fashion,T-Shirt,3,41309,123927,UPI,2025-10-02,Returned,3
+1429,C430,Female,28,Pune,Electronics,Headphones,3,39086,117258,COD,2025-01-16,Returned,4
+1430,C431,Male,21,Delhi,Sports,Cricket Bat,4,44080,176320,Credit Card,2025-12-08,Delivered,1
+1431,C432,Male,38,Hyderabad,Beauty,Shampoo,3,4237,12711,UPI,2025-09-16,Cancelled,2
+1432,C433,Female,56,Chennai,Fashion,T-Shirt,3,6236,18708,COD,2025-05-03,Cancelled,2
+1433,C434,Male,32,Delhi,Fashion,Shoes,4,24913,99652,COD,2025-01-03,Cancelled,4
+1434,C435,Female,55,Delhi,Home,Curtains,1,41651,41651,COD,2025-04-12,Returned,1
+1435,C436,Male,44,Pune,Books,Biography,4,31335,125340,PayPal,2026-03-26,Cancelled,4
+1436,C437,Female,47,Chennai,Sports,Tennis Racket,2,5525,11050,Credit Card,2025-09-22,Delivered,3
+1437,C438,Female,25,Mumbai,Beauty,Lipstick,3,54207,162621,Credit Card,2025-09-09,Cancelled,5
+1438,C439,Female,45,Kolkata,Electronics,Smartwatch,5,36550,182750,COD,2025-11-05,Pending,2
+1439,C440,Male,58,Kolkata,Books,Biography,1,38852,38852,Credit Card,2025-07-04,Returned,4
+1440,C441,Male,45,Jaipur,Beauty,Lipstick,4,4435,17740,UPI,2025-07-26,Returned,5
+1441,C442,Male,33,Mumbai,Sports,Cricket Bat,3,7333,21999,COD,2025-02-24,Returned,5
+1442,C443,Male,24,Bangalore,Home,Curtains,3,19991,59973,UPI,2025-01-26,Delivered,4
+1443,C444,Female,39,Kolkata,Beauty,Face Cream,1,37907,37907,Credit Card,2025-11-09,Cancelled,1
+1444,C445,Female,19,Delhi,Books,Magazine,3,40067,120201,UPI,2025-02-03,Pending,3
+1445,C446,Male,45,Bangalore,Home,Mixer Grinder,2,13120,26240,PayPal,2025-11-05,Delivered,2
+1446,C447,Male,24,Bangalore,Fashion,T-Shirt,5,40726,203630,COD,2025-06-18,Cancelled,3
+1447,C448,Female,54,Delhi,Home,Lamp,2,24380,48760,Credit Card,2026-01-12,Pending,3
+1448,C449,Male,46,Chennai,Home,Curtains,2,4331,8662,UPI,2025-02-11,Pending,1
+1449,C450,Male,41,Indore,Home,Curtains,2,36107,72214,PayPal,2025-02-08,Pending,3
+1450,C451,Female,46,Lucknow,Books,Magazine,2,16095,32190,Credit Card,2025-12-06,Delivered,1
+1451,C452,Male,40,Bangalore,Electronics,Headphones,2,50247,100494,PayPal,2025-06-02,Pending,5
+1452,C453,Female,52,Kolkata,Electronics,Smartphone,2,56240,112480,UPI,2025-09-09,Pending,5
+1453,C454,Male,58,Chennai,Electronics,Tablet,4,42113,168452,COD,2025-05-12,Pending,2
+1454,C455,Male,53,Chennai,Home,Lamp,3,42691,128073,UPI,2025-07-16,Returned,4
+1455,C456,Male,35,Mumbai,Books,Biography,5,46540,232700,COD,2026-01-04,Delivered,2
+1456,C457,Male,54,Lucknow,Books,Textbook,1,45147,45147,COD,2025-08-16,Pending,4
+1457,C458,Female,58,Pune,Electronics,Smartwatch,4,33842,135368,Credit Card,2025-02-03,Delivered,3
+1458,C459,Female,48,Delhi,Beauty,Shampoo,5,31023,155115,COD,2025-11-13,Delivered,4
+1459,C460,Male,53,Delhi,Fashion,Jeans,5,1136,5680,UPI,2025-10-19,Pending,2
+1460,C461,Female,40,Mumbai,Electronics,Smartwatch,2,22061,44122,PayPal,2026-02-23,Cancelled,4
+1461,C462,Male,52,Chennai,Electronics,Smartphone,3,38530,115590,Credit Card,2025-10-01,Delivered,4
+1462,C463,Female,24,Pune,Fashion,Jacket,5,16666,83330,PayPal,2026-03-27,Returned,5
+1463,C464,Male,31,Delhi,Sports,Football,2,15506,31012,Credit Card,2025-12-27,Pending,5
+1464,C465,Female,43,Hyderabad,Beauty,Perfume,2,28214,56428,COD,2025-11-04,Pending,3
+1465,C466,Female,25,Lucknow,Beauty,Lipstick,1,43867,43867,Credit Card,2025-10-16,Returned,3
+1466,C467,Female,50,Bangalore,Fashion,T-Shirt,4,10367,41468,COD,2025-09-24,Cancelled,4
+1467,C468,Female,22,Bangalore,Books,Comics,4,40621,162484,UPI,2025-12-06,Returned,2
+1468,C469,Female,34,Jaipur,Electronics,Smartphone,5,36454,182270,Credit Card,2025-02-22,Cancelled,5
+1469,C470,Male,58,Hyderabad,Sports,Tennis Racket,3,31182,93546,COD,2025-04-10,Cancelled,1
+1470,C471,Female,18,Hyderabad,Beauty,Lipstick,3,19662,58986,COD,2025-03-31,Delivered,4
+1471,C472,Male,33,Mumbai,Sports,Gym Gloves,2,7749,15498,COD,2025-04-20,Pending,2
+1472,C473,Female,56,Jaipur,Electronics,Headphones,5,23086,115430,Credit Card,2025-02-23,Returned,5
+1473,C474,Male,44,Hyderabad,Home,Mixer Grinder,2,5602,11204,UPI,2025-04-29,Cancelled,4
+1474,C475,Female,30,Bangalore,Home,Bedsheet,3,1746,5238,Credit Card,2025-05-19,Delivered,4
+1475,C476,Male,33,Mumbai,Books,Novel,1,37645,37645,PayPal,2025-02-22,Delivered,4
+1476,C477,Female,27,Bangalore,Fashion,Jeans,4,50675,202700,UPI,2025-02-03,Cancelled,4
+1477,C478,Female,33,Pune,Beauty,Shampoo,5,18600,93000,COD,2026-01-31,Delivered,5
+1478,C479,Female,48,Hyderabad,Home,Bedsheet,1,27668,27668,Credit Card,2025-01-01,Pending,3
+1479,C480,Male,21,Pune,Fashion,T-Shirt,1,8035,8035,PayPal,2025-12-09,Cancelled,4
+1480,C481,Male,49,Bangalore,Electronics,Smartwatch,2,42190,84380,PayPal,2025-07-23,Cancelled,1
+1481,C482,Female,48,Hyderabad,Beauty,Perfume,2,8943,17886,UPI,2025-05-11,Returned,5
+1482,C483,Female,53,Lucknow,Sports,Tennis Racket,1,42997,42997,PayPal,2026-03-26,Cancelled,5
+1483,C484,Female,20,Lucknow,Home,Curtains,5,52794,263970,COD,2025-10-26,Returned,3
+1484,C485,Male,59,Delhi,Sports,Gym Gloves,3,48013,144039,Credit Card,2026-02-06,Delivered,3
+1485,C486,Male,47,Kolkata,Home,Curtains,4,12404,49616,PayPal,2025-04-15,Delivered,3
+1486,C487,Female,27,Bangalore,Beauty,Shampoo,5,15968,79840,COD,2025-08-23,Pending,5
+1487,C488,Female,45,Lucknow,Home,Lamp,2,18998,37996,COD,2025-11-09,Delivered,5
+1488,C489,Male,45,Mumbai,Fashion,Saree,5,47150,235750,UPI,2025-07-21,Pending,3
+1489,C490,Female,56,Jaipur,Books,Novel,4,2634,10536,PayPal,2025-12-16,Pending,5
+1490,C491,Female,44,Mumbai,Beauty,Perfume,4,24833,99332,COD,2025-04-04,Returned,2
+1491,C492,Male,25,Kolkata,Beauty,Lipstick,4,20516,82064,Credit Card,2025-12-23,Cancelled,5
+1492,C493,Female,47,Mumbai,Fashion,Jeans,3,59899,179697,COD,2025-08-10,Delivered,2
+1493,C494,Female,38,Lucknow,Sports,Tennis Racket,5,59480,297400,UPI,2026-01-26,Delivered,5
+1494,C495,Female,58,Indore,Books,Textbook,4,59098,236392,UPI,2025-08-12,Cancelled,5
+1495,C496,Female,30,Mumbai,Beauty,Face Cream,1,16228,16228,PayPal,2025-01-15,Cancelled,3
+1496,C497,Male,33,Mumbai,Beauty,Lipstick,1,2293,2293,UPI,2025-10-29,Cancelled,4
+1497,C498,Female,31,Hyderabad,Sports,Gym Gloves,5,31821,159105,UPI,2025-07-08,Pending,4
+1498,C499,Female,27,Bangalore,Fashion,Jacket,2,23800,47600,PayPal,2025-01-25,Delivered,4
+1499,C500,Male,29,Bangalore,Sports,Cricket Bat,3,38503,115509,PayPal,2025-05-26,Delivered,3
